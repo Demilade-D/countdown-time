@@ -25,7 +25,6 @@ h1{
     display:flex;
     flex-wrap: wrap;
 }
-
 .big-text{
     font-size: 6rem;
    margin:0 2rem;
@@ -35,11 +34,12 @@ h1{
     text-align: center;
 }
 .countdown-el >span{
-    font-size: 1.2rem;
-    
+    font-size: 1.2rem;  
 }
 
-
+h3{
+    margin-top: 100px;
+}
 
 
 
